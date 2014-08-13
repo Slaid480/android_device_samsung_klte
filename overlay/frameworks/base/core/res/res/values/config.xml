@@ -238,6 +238,9 @@
 
     <bool name="config_enableWifiDisplay">true</bool>
 
+    <!-- Make things go fast -->
+    <bool name="config_ui_enableFadingMarquee">false</bool>
+
     <!-- Panel auto-brightness configuration value -->
     <integer name="config_panelAutoBrightnessValue">1</integer>
 
